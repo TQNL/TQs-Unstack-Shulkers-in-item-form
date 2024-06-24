@@ -1,6 +1,6 @@
 {
     "pack":{
-        "pack_format": 18,
+        "pack_format": 48,
         "description": "Unstacks stacked shulker boxes that are in item form. By ThijquintNL."
     }
 }

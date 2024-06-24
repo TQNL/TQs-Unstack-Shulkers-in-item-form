@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:purple_shulker_box"
+      "id": "minecraft:purple_shulker_box"
     },
     "title": "TQs Unstack Shulkers",
     "description": "Unstacks stacked shulker boxes that are in item form",
